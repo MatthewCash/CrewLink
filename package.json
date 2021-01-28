@@ -57,7 +57,7 @@
     "@types/simple-peer": "^9.6.1",
     "@types/socket.io-client": "^1.4.34",
     "@types/webpack-env": "^1.15.3",
-    "electron": "9.3.3",
+    "electron": "9.4.0",
     "electron-builder": "^22.9.1",
     "electron-webpack": "^2.8.2",
     "electron-webpack-ts": "^4.0.1",
